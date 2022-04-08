@@ -1,0 +1,15 @@
+D:\scr\ВУЗ\6 сем\Межплатформенное программирование\lab3\lab3\bin\Debug\lab3.exe.config
+D:\scr\ВУЗ\6 сем\Межплатформенное программирование\lab3\lab3\bin\Debug\lab3.exe
+D:\scr\ВУЗ\6 сем\Межплатформенное программирование\lab3\lab3\bin\Debug\lab3.pdb
+D:\scr\ВУЗ\6 сем\Межплатформенное программирование\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\scr\ВУЗ\6 сем\Межплатформенное программирование\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\scr\ВУЗ\6 сем\Межплатформенное программирование\lab3\lab3\obj\Debug\lab3.exe
+D:\scr\ВУЗ\6 сем\Межплатформенное программирование\lab3\lab3\obj\Debug\lab3.pdb
+D:\scr\ВУЗ\6 сем\Межплатформенное программирование\lab3\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge\Desktop\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\serge\Desktop\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\serge\Desktop\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\serge\Desktop\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\serge\Desktop\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\serge\Desktop\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\serge\Desktop\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
